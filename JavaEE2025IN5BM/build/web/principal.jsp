@@ -16,10 +16,10 @@
 </head>
 
 <nav>
-    <a href="index.html" class="logo"> Essenza & Co.</a>
+    <a href="index.jsp" class="logo"> Essenza & Co.</a>
     <div class="links">
         <div class="seleccionar-productos">
-            <a href="Productos.html" class="nav-link">Productos</a>
+            <a href="Productos.jsp" class="nav-link">Productos</a>
             <div class="seleccionar">
                 <a href="#destacado">Destacado</a>
                 <a href="#accesorios">Accesorios H/M</a>
@@ -33,7 +33,7 @@
                 <img src="img/UsuarioPredeterminado.png" alt="Avatar">
             </a>
             <div class="avatar-menu">
-                <a href="index.html">Cerrar sesión</a>
+                <a href="index.jsp">Cerrar sesión</a>
             </div>
         </div>
     </div>
